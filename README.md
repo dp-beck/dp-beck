@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dp-beck
-- 👀 I’m interested in front-end web development.
-- 🌱 I’m currently learning HTML, CSS, and Javascript through the Odin Project.
-- 💞️ I’m looking to collaborate on any front-end web development projects.
+- 👋 Hi, I’m Dan Beck. 
+- 👀 I am an open source intelligence analyst and aspiring web developer.
+- 🌱 I’m currently learning HTML, CSS, Javascript, React, and Node.js through [The Odin Project](https://www.theodinproject.com/)
+- 💞️ I’m currently looking to collaborate on any front-end web development or open source intelligence projects.
 - 📫 How to reach me: beckdp01@gmail.com 
 
 <!---
