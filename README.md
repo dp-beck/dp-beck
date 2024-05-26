@@ -6,6 +6,7 @@
 - 📫 How to reach me: beckdp01@gmail.com
 
 [![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dp-beck)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp-beck)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 dp-beck/dp-beck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
