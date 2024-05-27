@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dan Beck. 
+# 👋 Hi, I’m Dan Beck. 
 - 👀 I am an open source intelligence analyst and a web developer.
 - 🌱 I’m currently learning HTML, CSS, Javascript, React, and Node.js through [The Odin Project](https://www.theodinproject.com/)
 - 🌱 I just started a new tech training program through Code You and will be learning C#!
