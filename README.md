@@ -4,7 +4,7 @@
 - 💞️ I’m currently looking to collaborate on any web development or open source intelligence projects, preferable projects that combine both interests!
 - 📫 How to reach me: beckdp01@gmail.com
 
-[![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dp-beck)](https://github.com/anuraghazra/github-readme-stats)
+[![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dp-beck)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dp-beck)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
