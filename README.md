@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dan Beck. 
-- 👀 I am a full-stack web developer and an open-source intelligence researcher. I like building web projects using Blazor / ASP.NET and React / Node.js I’m currently working on building a Resolution Tracker App, using a React/Typescript front-end and an ASP.NET Web Api (accessing a PostgreSQL database).
-- 🌱 I just finished a certificate course through [Code You](https://code-you.org/): Software Development with .NET and C#!
+- 👀 I am a full-stack web developer and an open-source intelligence researcher. I like building web projects using Blazor / ASP.NET and React / Node.js I’m currently learning typescript and building an interactive version of Ludwig Wittgenstein's Tractatus Logico-Philosophicus. Did I mention I love philosophy?
+- 🌱 I recently finished a certificate course through [Code You](https://code-you.org/): Software Development with .NET and C#!
 - 💞️ I’m currently looking to collaborate on any web development or open source intelligence projects, preferably projects that combine both interests!
 - 📫 How to reach me: beckdp01@gmail.com
 
